@@ -5,7 +5,7 @@
 Welcome to the **DIY-ROV** GitHub repository! This project is dedicated to open-source Remotely Operated Vehicle (ROV) designs, tutorials, and software for underwater exploration enthusiasts.  
 
 🔗 **Live Site:** [DIY-ROV.com](https://diy-rov.com)  
-📂 **Repository:** [DIY-ROV on GitHub](https://github.com/FLLA2Offical/DIY-ROV.github.io/tree/main)  
+📂 **Repository:** [DIY-ROV on GitHub](https://github.com/FLLA2Offical/ROV)  
 
 ---
 
@@ -18,6 +18,10 @@ DIY-ROV.com provides resources to help you build and customize your own underwat
 ✅ Electronics and wiring diagrams  
 ✅ Control software & firmware  
 ✅ Community contributions and discussions  
+
+bash
+Copy
+Edit
 
 ## 📂 Repository Structure  
 /docs # Technical documentation & guides
